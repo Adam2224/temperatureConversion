@@ -8,8 +8,6 @@ degrees = int(input("Enter a temperature: "))
 
 variable = str(input("Is the original temperature in 'C' or 'F'? "))
 
-anotherTemperature = 'y'
-
 
 if variable == 'F':
     degrees1 = degrees                
