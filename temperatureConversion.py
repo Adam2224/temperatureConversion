@@ -19,7 +19,7 @@ if variable == 'F':
 elif variable == 'C':
      degrees2 = degrees
      degrees2 = degrees * 9/5 + 32
-     print("You entered", degrees, "in Celsius degrees. This =", degrees2, "degrees Fehrenheit.")
+     print("You entered", degrees, "in Celsius degrees. This =", degrees2, "degrees Fahrenheit.")
 
 elif variable != 'F' or variable != 'C':
     print("You must enter either 'C' or 'F' !")
